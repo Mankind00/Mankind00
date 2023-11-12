@@ -5,7 +5,7 @@
 - 📫 Here is how to reach me... You can reach me on twitter ---> https://twitter.com/its_mankind 
 - or through my Linkedin account -->  https://www.linkedin.com/in/abdulazeez-makinde-5b69251a6/
 
-Well, Now that you're here you can definitely check out my repo... I've some great stuff rolling out
+Well, Now that you're here you can definitely check out my repo... I've got some great stuff rolling out
 
 <!---
 Mankind00/Mankind00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
